@@ -1,4 +1,4 @@
 from sys import platform
 class Module:
-   def main(self):
-      return platform
+   def main(self,args):
+      return args[0]
