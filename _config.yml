@@ -1,4 +1,2 @@
 theme: jekyll-theme-midnight
 show_downloads: true
-plugins:
-- jekyll-remote-theme
