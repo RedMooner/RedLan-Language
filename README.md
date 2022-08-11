@@ -1,6 +1,7 @@
 
 
 
+
 # RedRackView Cable Magazine Project
  # Introduction
  
@@ -61,7 +62,21 @@
     $array[].add(1);
    > Вывод: будет добавлен элемент со значением 1
    
+### Функция Python
+> Данная функция подключает кастомный модуль в RedLan
 
+Пример на готовой структуре проекта RedLan
+**RedLan Код: /code.redlan** 
+
+	$a = 1;
+	$b = 1;
+	python(test.py > $a,$b);
+**Python модуль: /Modules/test.py**
+
+    class Module:
+       def main(self, args):
+          return str(float(args[0]) + float(args[1]
+> Вывод: результат выполнения: 2.0
 
 
 
