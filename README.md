@@ -18,6 +18,7 @@
 </div>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/RedMooner/RedLan-Language)
 # RedRackView Cable Magazine Project
  # Introduction
  
